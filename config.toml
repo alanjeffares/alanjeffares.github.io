@@ -1,6 +1,6 @@
-baseURL = "alanjeffares.github.io"
-languageCode = "en-us"
-title = "Jeroen Berrevoets"
+baseURL = 'https://jeroenbe.github.io'
+languageCode = 'en-us'
+title = 'Jeroen Berrevoets'
 theme = "hugo-xmin"
 publishDir = "docs"
 
