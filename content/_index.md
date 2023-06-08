@@ -5,18 +5,17 @@ description: "Alan Jeffares"
 
 # Alan Jeffares
 
-<div>
   <div class="profile-pic">
     <img src="/images/alan.webp" alt="profile" />
   </div>
-  <div class="bio">
-    <p>I&rsquo;m a 3rd year PhD student at the <a href="https://damtp.cam.ac.uk" target="_blank" rel="noopener">University of Cambridge</a> where I am a member of the <a href="https://vanderschaar-lab.com" target="_blank" rel="noopener">vanderschaar-lab</a>. My research is focused on <strong>causality</strong> and <strong>machine learning</strong>, sometimes applied to medicine. I am supervised by prof. <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/" target="_blank" rel="noopener">Mihaela van der Schaar</a>. Previously I&rsquo;ve spent time at <a href="https://www.vub.be/en" target="_blank" rel="noopener">VUB</a>, <a href="https://www.kuleuven.be/english/kuleuven/index.html" target="_blank" rel="noopener">KU Leuven</a>, <a href="https://www.math.ku.dk/english/" target="_blank" rel="noopener">University of Copenhagen</a>, and <a href="https://www.bmw.com/en/index.html" target="_blank" rel="noopener">BMW Group</a>. If you want to reach out, please send an email to <em>jeroen [dot] berrevoets [at] maths.cam.ac.uk</em>.</p>
-  </div>
-  <div style="text-align: center">
-    <p>[<a href="https://twitter.com/Jeffaresalan" target="_blank" rel="noopener">twitter</a>] [<a href="https://scholar.google.com/citations?user=e65kJ08AAAAJ&hl=en" target="_blank" rel="noopener">scholar</a>] [<a href="https://github.com/alanjeffares" target="_blank" rel="noopener">github</a>] [<a href="https://linkedin.com/in/alanjeffares" target="_blank" rel="noopener">linkedin</a>]</p>
-  </div>
-</div>
-<hr/>
+
+I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk/) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com/). My research is focused on **causality** and **machine learning**, sometimes applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), [University of Copenhagen](https://www.math.ku.dk/english/), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to *jeroen [dot] berrevoets [at] maths.cam.ac.uk*.
+
+{{% center %}}
+[[twitter](https://twitter.com/Jeffaresalan)] [[scholar](https://scholar.google.com/citations?user=e65kJ08AAAAJ&hl=en)] [[github](https://github.com/alanjeffares)] [[linkedin](https://linkedin.com/in/alanjeffares)]
+{{% /center %}}
+
+---
 
 ## 🧪 Research
 
