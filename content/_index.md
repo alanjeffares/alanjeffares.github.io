@@ -23,7 +23,7 @@ Please find some of my publications below (a more up-to-date list can be found o
 
 ### Conferences
 
-- <mark>J. Berrevoets</mark>, Y. Zhang, M. van der Schaar. *Identifiable Energy-based Representations: An Application to Estimating Heterogeneous Causal Effects.* **AISTATS, 2022**. [[paper]](https://proceedings.mlr.press/v151/zhang22b.html) [[code]](https://github.com/jeroenbe/ebm-for-cate)
+- <mark>J. Berrevoets</mark>, Y. Zhang, M. van der Schaar. *Identifiable Energy-based Representations: An Application to Estimating Heterogeneous Causal Effects.* **AISTATS, 2021**. [[paper]](https://proceedings.mlr.press/v151/zhang22b.html) [[code]](https://github.com/jeroenbe/ebm-for-cate)
 - B. van Breugel*, T. Kyono*, <mark>J. Berrevoets</mark>, M. van der Schaar. *DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks.* **NeurIPS, 2021**. [[paper]](https://proceedings.neurips.cc/paper/2021/hash/ba9fab001f67381e56e410575874d967-Abstract.html) [[code]](https://github.com/trentkyono/DECAF)
 - <mark>J. Berrevoets</mark>, A. Alaa, Z. Qian, J. Jordon, A. Gimson, M. van der Schaar. *Learning Queueing Policies for Organ Transplantation Allocation using Interpretable Counterfactual Survival Analysis.* **ICML, 2022**. [[paper]](https://proceedings.mlr.press/v139/berrevoets21a.html) [[code]](https://github.com/jeroenbe/organsync)
 - <mark>J. Berrevoets</mark>, J. Jordon, I. Bica, A. Gimson, M. van der Schaar. *OrganITE: Optimal Transplant Donor Organ Offering Using an Individual Treatment Effect.* **NeurIPS, 2020**. [[paper]](https://proceedings.neurips.cc/paper/2020/hash/e7c573c14a09b84f6b7782ce3965f335-Abstract.html) [[code]](https://github.com/jeroenbe/organsync/blob/main/src/organsync/policies/policy.py#L475)
