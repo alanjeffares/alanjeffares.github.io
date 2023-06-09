@@ -9,7 +9,7 @@ description: "Alan Jeffares"
     <img src="/images/alan.webp" alt="profile" />
   </div>
 
-I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk/) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com/). My research is focused on **causality** and **machine learning**, sometimes applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), [University of Copenhagen](https://www.math.ku.dk/english/), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to *jeroen [dot] berrevoets [at] maths.cam.ac.uk*.
+I'm a 2rd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk/) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com/). I am interested in understanding the limitations of existing systems and developing methods and insights material impact. I am supervised by Prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), [University of Copenhagen](https://www.math.ku.dk/english/), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to *jeroen [dot] berrevoets [at] maths.cam.ac.uk*.
 
 {{% center %}}
 [[twitter](https://twitter.com/Jeffaresalan)] [[scholar](https://scholar.google.com/citations?user=e65kJ08AAAAJ&hl=en)] [[github](https://github.com/alanjeffares)] [[linkedin](https://linkedin.com/in/alanjeffares)]
