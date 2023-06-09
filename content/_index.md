@@ -9,7 +9,8 @@ description: "Alan Jeffares"
     <img src="/images/alan.webp" alt="profile" />
   </div>
 
-I'm a 2nd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk/) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com/). I am interested in understanding the limitations of existing systems and developing methods and insights material impact. I am supervised by Prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), [University of Copenhagen](https://www.math.ku.dk/english/), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to *jeroen [dot] berrevoets [at] maths.cam.ac.uk*.
+I'm a 2nd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk/) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com/) supervised by Prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). I am interested in understanding the limitations of existing machine learning systems and developing methods and insights with material impact. I hold an MSc in Machine Learning from [University College London](https://www.ucl.ac.uk/) and a BSc in Statistics from [University College Dublin](https://www.ucd.ie/). I have previously worked as a Data Scientist at [Accenture's global center for R&D innovation](https://www.accenture.com/il-en/services/about/innovation-hub-the-dock) and in the [Insight Research Center for Data Analytics](https://www.insight-centre.org/). To reach out, please send an email to: *aj659 [at] cam [dot] ac [dot] uk*.
+
 
 {{% center %}}
 [[twitter](https://twitter.com/Jeffaresalan)] [[scholar](https://scholar.google.com/citations?user=e65kJ08AAAAJ&hl=en)] [[github](https://github.com/alanjeffares)] [[linkedin](https://linkedin.com/in/alanjeffares)]
@@ -17,21 +18,15 @@ I'm a 2nd year PhD student at the [University of Cambridge](https://damtp.cam.a
 
 ---
 
-## 🧪 Research
+## 📚 Research 📚
 
-Please find some of my publications below (a more up-to-date list can be found on [google scholar](https://scholar.google.be/citations?hl=en&user=Bq1dFNQAAAAJ)). "\*" means equal contribution.
+Please find some of my publications below (a more up-to-date list can be found on [google scholar](https://scholar.google.com/citations?user=e65kJ08AAAAJ&hl=en))."\*" denotes equal contribution.
 
 ### Conferences
 
-- <mark>J. Berrevoets</mark>, Y. Zhang, M. van der Schaar. *Identifiable Energy-based Representations: An Application to Estimating Heterogeneous Causal Effects.* **AISTATS, 2022**. [[paper]](https://proceedings.mlr.press/v151/zhang22b.html) [[code]](https://github.com/jeroenbe/ebm-for-cate)
-- B. van Breugel*, T. Kyono*, <mark>J. Berrevoets</mark>, M. van der Schaar. *DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks.* **NeurIPS, 2021**. [[paper]](https://proceedings.neurips.cc/paper/2021/hash/ba9fab001f67381e56e410575874d967-Abstract.html) [[code]](https://github.com/trentkyono/DECAF)
-- <mark>J. Berrevoets</mark>, A. Alaa, Z. Qian, J. Jordon, A. Gimson, M. van der Schaar. *Learning Queueing Policies for Organ Transplantation Allocation using Interpretable Counterfactual Survival Analysis.* **ICML, 2022**. [[paper]](https://proceedings.mlr.press/v139/berrevoets21a.html) [[code]](https://github.com/jeroenbe/organsync)
-- <mark>J. Berrevoets</mark>, J. Jordon, I. Bica, A. Gimson, M. van der Schaar. *OrganITE: Optimal Transplant Donor Organ Offering Using an Individual Treatment Effect.* **NeurIPS, 2020**. [[paper]](https://proceedings.neurips.cc/paper/2020/hash/e7c573c14a09b84f6b7782ce3965f335-Abstract.html) [[code]](https://github.com/jeroenbe/organsync/blob/main/src/organsync/policies/policy.py#L475)
-- <mark>J. Berrevoets</mark>, S. Verboven, W. Verbeke. *Optimising Individual-Treatment-Effect Using Bandits.* CausalML workshop at NeurIPS, 2019. [[paper]](https://arxiv.org/abs/1910.07265) [[code]](https://github.com/vub-dl/u-cmab)
+- <mark>A. Jeffares</mark>, T. Liu, J .Crabbé, M. van der Schaar. *Joint Training of Deep Ensembles Fails Due to Learner Collusion*. **Preprint, 2023** [[paper]](https://arxiv.org/abs/2301.11323)
+- N. Seedat*, <mark>A. Jeffares*</mark>, F. Imrie, M. van der Schaar. *Improving Adaptive Conformal Prediction Using Self-Supervised Learning*. **AISTATS, 2023** [[paper]](https://proceedings.mlr.press/v206/seedat23a.html) [[code]](https://github.com/seedatnabeel/SSCP)
+- <mark>A. Jeffares*</mark>, T. Liu*, J. Crabbé, F. Imrie, M. van der Schaar. *TANGOS: Regularizing Tabular Neural Networks through Gradient Orthogonalization and Specialization*. **ICLR, 2023** [[paper]](https://openreview.net/forum?id=n6H86gW8u0d) [[code]](https://github.com/alanjeffares/TANGOS)
+- <mark>A. Jeffares</mark>, Q. Guo, P. Stenetorp, T. Moraitis. *Spike-inspired rank coding for fast and accurate recurrent neural networks*. **ICLR, 2022**. [[paper]](https://openreview.net/pdf?id=iMH1e5k7n3L) [[code]](https://github.com/NeuromorphicComputing/RankCoding)
 
-### Journals
 
-- S. Verboven, M.H. Chaudhary, <mark>J. Berrevoets</mark>, V. Ginis, W. Verbeke. *HydaLearn: Highly Dynamic Task Weighting for Multitask Learning with Auxiliary Tasks.* **Applied Intelligence, 2022**. [[paper]](https://link.springer.com/article/10.1007/s10489-022-03695-x)
-- <mark>J. Berrevoets</mark>, S. Verboven, W. Verbeke. *Treatment Effect Optimisation in Dynamic Environments.* **Journal of Causal Inference, 2022**. [[paper]](https://www.degruyter.com/document/doi/10.1515/jci-2020-0009/html)
-- F. Devriendt, <mark>J. Berrevoets</mark>, W. Verbeke. *Why you should stop predicting customer churn and start using uplift models.* **Information Sciences, 2021**. [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025519312022)
-- S. Verboven, <mark>J. Berrevoets</mark>, C. Wuytens, B. Baesens, W. Verbeke. *Autoencoders for Strategic Decision Support.* **Decision Support Systems, 2020**. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167923620301779)
