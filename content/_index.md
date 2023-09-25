@@ -20,7 +20,9 @@ I'm a 2nd year PhD student at the [University of Cambridge](https://damtp.cam.a
 
 ## 🗞️ News 🗞️
 
-* <span class="date">Jan 2023</span> &#8594; _Two papers accepted!_ 🥳 One at [**AISTATS23**](https://virtual.aistats.org/Conferences/2023) ([[paper](https://proceedings.mlr.press/v206/seedat23a.html)]) and one at [**ICLR23**](https://iclr.cc/) ([[paper](https://openreview.net/forum?id=n6H86gW8u0d)]). These papers explore self-supervised learning for conformal prediction and a new regularizer for neural networks, respectively. I look forward presenting these with my co-authors!
+* <span class="date">Sep 2023</span> &#8594; _Two papers accepted for [**NeurIPS2023**](https://nips.cc/)!_ One **oral** (top <2% of submissions) that provides an alternative take on double descent suggesting that it may not be so contradictory from classic statistical notions of model complexity. Then, a **poster** that investigates if deep ensembles can be trained jointly rather than independently. Camera-ready versions of both papers coming soon!
+
+* <span class="date">Jan 2023</span> &#8594; _Two papers accepted!_ 🥳 One at [**AISTATS23**](https://virtual.aistats.org/Conferences/2023) ([[paper](https://proceedings.mlr.press/v206/seedat23a.html)]) and one at [**ICLR23**](https://iclr.cc/) ([[paper](https://openreview.net/forum?id=n6H86gW8u0d)]). These papers explore self-supervised learning for conformal prediction and a new regularizer for neural networks, respectively. I look forward to presenting these with my co-authors!
 
 * <span class="date">April 2022</span> &#8594; I have officially started a PhD in Machine Learning in the University of Cambridge under the supervision of Mihaela van der Schaar! 
 
@@ -39,7 +41,8 @@ Please find some of my publications below (a more up-to-date list can be found o
 
 ### Conferences
 
-- <mark>A. Jeffares</mark>, T. Liu, J .Crabbé, M. van der Schaar. *Joint Training of Deep Ensembles Fails Due to Learner Collusion*. **Preprint, 2023** [[paper]](https://arxiv.org/abs/2301.11323)
+- A. Curth*, <mark>A. Jeffares*</mark>, M. van der Schaar. *A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning*. **NeurIPS, 2023 - Oral (top <2%)**. (camera-ready coming soon!)
+- <mark>A. Jeffares</mark>, T. Liu, J .Crabbé, M. van der Schaar. *Joint Training of Deep Ensembles Fails Due to Learner Collusion*. **NeurIPS, 2023** [[preprint]](https://arxiv.org/abs/2301.11323) (camera-ready coming soon!)
 - N. Seedat*, <mark>A. Jeffares*</mark>, F. Imrie, M. van der Schaar. *Improving Adaptive Conformal Prediction Using Self-Supervised Learning*. **AISTATS, 2023** [[paper]](https://proceedings.mlr.press/v206/seedat23a.html) [[code]](https://github.com/seedatnabeel/SSCP)
 - <mark>A. Jeffares*</mark>, T. Liu*, J. Crabbé, F. Imrie, M. van der Schaar. *TANGOS: Regularizing Tabular Neural Networks through Gradient Orthogonalization and Specialization*. **ICLR, 2023** [[paper]](https://openreview.net/forum?id=n6H86gW8u0d) [[code]](https://github.com/alanjeffares/TANGOS)
 - <mark>A. Jeffares</mark>, Q. Guo, P. Stenetorp, T. Moraitis. *Spike-inspired rank coding for fast and accurate recurrent neural networks*. **ICLR, 2022 - Spotlight (top 5%)**. [[paper]](https://openreview.net/pdf?id=iMH1e5k7n3L) [[code]](https://github.com/NeuromorphicComputing/RankCoding)
