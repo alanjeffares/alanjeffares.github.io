@@ -20,7 +20,7 @@ I'm a 2nd year Machine Learning PhD student in the University of Cambridge at 
 
 ## 🗞️ News 🗞️
 
-* <span class="date">Sep 2023</span> &#8594; _Two papers accepted for_ [**NeurIPS2023**](https://nips.cc/)_!_ One **oral** (top <2% of submissions) that provides an alternative take on double descent suggesting that it may not be so contradictory from classic statistical notions of model complexity. Then, a **poster** that investigates if deep ensembles can be trained jointly rather than independently.
+* <span class="date">Sep 2023</span> &#8594; _Two papers accepted for_ [**NeurIPS2023**](https://nips.cc/)_!_ One **oral** (top 0.5% of submissions) that provides an alternative take on double descent suggesting that it may not be so contradictory from classic statistical notions of model complexity. Then, a **poster** that investigates if deep ensembles can be trained jointly rather than independently.
 
 * <span class="date">Jan 2023</span> &#8594; _Two papers accepted!_ 🥳 One at [**AISTATS23**](https://virtual.aistats.org/Conferences/2023) ([[paper](https://proceedings.mlr.press/v206/seedat23a.html)]) and one at [**ICLR23**](https://iclr.cc/) ([[paper](https://openreview.net/forum?id=n6H86gW8u0d)]). These papers explore self-supervised learning for conformal prediction and a new regularizer for neural networks, respectively. I look forward to presenting these with my co-authors!
 
@@ -45,7 +45,7 @@ Please find some of my publications below (a more up-to-date list can be found o
 
 ### Conferences
 
-- A. Curth*, <mark>A. Jeffares*</mark>, M. van der Schaar. *A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning*. **NeurIPS, 2023 - Oral (top <2%)**. [[paper]](https://openreview.net/forum?id=O0Lz8XZT2b) [[code]](https://github.com/alanjeffares/not-double-descent)
+- A. Curth*, <mark>A. Jeffares*</mark>, M. van der Schaar. *A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning*. **NeurIPS, 2023 - Oral (top 0.5%)**. [[paper]](https://openreview.net/forum?id=O0Lz8XZT2b) [[code]](https://github.com/alanjeffares/not-double-descent)
 - <mark>A. Jeffares</mark>, T. Liu, J .Crabbé, M. van der Schaar. *Joint Training of Deep Ensembles Fails Due to Learner Collusion*. **NeurIPS, 2023** [[paper]](https://openreview.net/forum?id=WpGLxnOWhn) [[code]](https://github.com/alanjeffares/joint-ensembles)
 - N. Seedat*, <mark>A. Jeffares*</mark>, F. Imrie, M. van der Schaar. *Improving Adaptive Conformal Prediction Using Self-Supervised Learning*. **AISTATS, 2023** [[paper]](https://proceedings.mlr.press/v206/seedat23a.html) [[code]](https://github.com/seedatnabeel/SSCP)
 - <mark>A. Jeffares*</mark>, T. Liu*, J. Crabbé, F. Imrie, M. van der Schaar. *TANGOS: Regularizing Tabular Neural Networks through Gradient Orthogonalization and Specialization*. **ICLR, 2023** [[paper]](https://openreview.net/forum?id=n6H86gW8u0d) [[code]](https://github.com/alanjeffares/TANGOS)
