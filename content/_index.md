@@ -6,7 +6,7 @@ description: "Alan Jeffares"
 # Alan Jeffares
 
   <div class="profile-pic">
-    <img src="/images/alan.webp" alt="profile" />
+    <img src="/images/profile_pic.jpeg" alt="profile" />
   </div>
 
 I'm a 2nd year Machine Learning PhD student in the University of Cambridge at the [Department of Applied Mathematics](http://www.damtp.cam.ac.uk/). I am interested in building a better understanding of empirical phenomena in deep learning (e.g. double descent, loss landscapes) and developing methodological advances from these insights (e.g. deep ensembles). I hold an MSc in Machine Learning from [University College London](https://www.ucl.ac.uk/) and a BSc in Statistics from [University College Dublin](https://www.ucd.ie/). I have previously worked as a Data Scientist at [Accenture's global center for R&D innovation](https://www.accenture.com/il-en/services/about/innovation-hub-the-dock) and in the [Insight Research Center for Data Analytics](https://www.insight-centre.org/). Email at: *aj659 [at] cam [dot] ac [dot] uk*.
