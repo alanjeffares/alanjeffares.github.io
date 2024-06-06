@@ -9,7 +9,7 @@ description: "Alan Jeffares"
     <img src="/images/profile_pic.jpeg" alt="profile" />
   </div>
 
-I'm a 2nd year Machine Learning PhD student in the University of Cambridge at the [Department of Applied Mathematics](http://www.damtp.cam.ac.uk/). I am interested in building a better understanding of empirical phenomena in deep learning (e.g. double descent, loss landscapes) and developing methodological advances from these insights (e.g. deep ensembles). I hold an MSc in Machine Learning from [University College London](https://www.ucl.ac.uk/) and a BSc in Statistics from [University College Dublin](https://www.ucd.ie/). I have previously worked as a Data Scientist at [Accenture's global center for R&D innovation](https://www.accenture.com/il-en/services/about/innovation-hub-the-dock) and in the [Insight Research Center for Data Analytics](https://www.insight-centre.org/). Email at: *aj659 [at] cam [dot] ac [dot] uk*.
+I'm a 2nd year Machine Learning PhD student at the University of Cambridge in the [Department of Applied Mathematics](http://www.damtp.cam.ac.uk/). I am interested in building a better understanding of empirical phenomena in deep learning (e.g. double descent, loss landscapes) and developing methodological advances from these insights (e.g. deep ensembles). I hold an MSc in Machine Learning from [University College London](https://www.ucl.ac.uk/) and a BSc in Statistics from [University College Dublin](https://www.ucd.ie/). I have previously worked as a Data Scientist at [Accenture's global center for R&D innovation](https://www.accenture.com/il-en/services/about/innovation-hub-the-dock) and in the [Insight Research Center for Data Analytics](https://www.insight-centre.org/). Email at: *aj659 [at] cam [dot] ac [dot] uk*.
 
 
 {{% center %}}
@@ -19,6 +19,8 @@ I'm a 2nd year Machine Learning PhD student in the University of Cambridge at 
 ---
 
 ## 🗞️ News 🗞️
+
+* <span class="date">May 2024</span> &#8594; _New paper accepted at_ [**ICML2024**](https://icml.cc/)_!_ This [paper](https://arxiv.org/abs/2406.03258) deals with the task of estimating well-calibrated prediction intervals and proposes a simple alternative to quantile regression that relaxes the implicit assumption of a symmetric noise distribution. 
 
 * <span class="date">Sep 2023</span> &#8594; _Two papers accepted for_ [**NeurIPS2023**](https://nips.cc/)_!_ One **oral** (top 0.5% of submissions) that provides an alternative take on double descent suggesting that it may not be so contradictory from classic statistical notions of model complexity. Then, a **poster** that investigates if deep ensembles can be trained jointly rather than independently.
 
@@ -45,6 +47,7 @@ Please find some of my publications below (a more up-to-date list can be found o
 
 ### Conferences
 
+- T. Pouplin*, <mark>A. Jeffares*</mark>, N. Seedat, M. van der Schaar. *Relaxed Quantile Regression: Prediction Intervals for Asymmetric Noise*. **ICML 2024** [[paper]](https://arxiv.org/abs/2406.03258) [[code]](https://github.com/TPouplin/RQR)
 - A. Curth*, <mark>A. Jeffares*</mark>, M. van der Schaar. *A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning*. **NeurIPS, 2023 - Oral (top 0.5%)**. [[paper]](https://openreview.net/forum?id=O0Lz8XZT2b) [[code]](https://github.com/alanjeffares/not-double-descent)
 - <mark>A. Jeffares</mark>, T. Liu, J .Crabbé, M. van der Schaar. *Joint Training of Deep Ensembles Fails Due to Learner Collusion*. **NeurIPS, 2023** [[paper]](https://openreview.net/forum?id=WpGLxnOWhn) [[code]](https://github.com/alanjeffares/joint-ensembles)
 - N. Seedat*, <mark>A. Jeffares*</mark>, F. Imrie, M. van der Schaar. *Improving Adaptive Conformal Prediction Using Self-Supervised Learning*. **AISTATS, 2023** [[paper]](https://proceedings.mlr.press/v206/seedat23a.html) [[code]](https://github.com/seedatnabeel/SSCP)
