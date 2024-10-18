@@ -9,7 +9,7 @@ description: "Alan Jeffares"
     <img src="/images/profile_pic.jpeg" alt="profile" />
   </div>
 
-I'm a 3rd year Machine Learning PhD student at the University of Cambridge in the [Department of Applied Mathematics](http://www.damtp.cam.ac.uk/). I am interested in building a better understanding of empirical phenomena in deep learning (e.g. double descent, loss landscapes) and developing methodological advances from these insights (e.g. deep ensembles). I hold an MSc in Machine Learning from [University College London](https://www.ucl.ac.uk/) and a BSc in Statistics from [University College Dublin](https://www.ucd.ie/). I have previously worked as a Data Scientist at [Accenture's global center for R&D innovation](https://www.accenture.com/il-en/services/about/innovation-hub-the-dock) and in the [Insight Research Center for Data Analytics](https://www.insight-centre.org/). Email at: *aj659 [at] cam [dot] ac [dot] uk*.
+I'm a 3rd year Machine Learning PhD student at the University of Cambridge in the [Department of Applied Mathematics](http://www.damtp.cam.ac.uk/). I am interested in building a better understanding of empirical phenomena in deep learning (e.g. double descent, optimization heuristics) and developing methodological advances from these insights (e.g. deep ensembles, mixture-of-expersts). I hold an MSc in Machine Learning from [University College London](https://www.ucl.ac.uk/) and a BSc in Statistics from [University College Dublin](https://www.ucd.ie/). I have previously worked as a Data Scientist at [Accenture's global center for R&D innovation](https://www.accenture.com/il-en/services/about/innovation-hub-the-dock) and in the [Insight Research Center for Data Analytics](https://www.insight-centre.org/). Email at: *aj659 [at] cam [dot] ac [dot] uk*.
 
 
 {{% center %}}
@@ -20,7 +20,7 @@ I'm a 3rd year Machine Learning PhD student at the University of Cambridge in 
 
 ## 🗞️ News 🗞️
 
-* <span class="date">September 2024</span> &#8594; New paper accepted for _[**NeurIPS2024**](https://nips.cc/)_, more details coming soon!
+* <span class="date">September 2024</span> &#8594; New paper accepted for [**NeurIPS2024**](https://nips.cc/), more details coming soon!
   
 * <span class="date">June 2024</span> &#8594; Excited to have begun my internship at Microsoft Research Redmond for the summer where I'll be working on discrete optimization and mixture of expert models under the brilliant [Lucas Liu](https://liyuanlucasliu.github.io/) and the deep learning team.
 
