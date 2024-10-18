@@ -21,7 +21,7 @@ I'm a 3rd year Machine Learning PhD student at the University of Cambridge in 
 ## 🗞️ News 🗞️
 
 * <span class="date">September 2024</span> &#8594; New paper accepted for _[**NeurIPS2024**](https://nips.cc/)_, more details coming soon!
-* 
+  
 * <span class="date">June 2024</span> &#8594; Excited to have begun my internship at Microsoft Research Redmond for the summer where I'll be working on discrete optimization and mixture of expert models under the brilliant [Lucas Liu](https://liyuanlucasliu.github.io/) and the deep learning team.
 
 * <span class="date">May 2024</span> &#8594; _New paper accepted at_ [**ICML2024**](https://icml.cc/)_!_ This [paper](https://arxiv.org/abs/2406.03258) deals with the task of estimating well-calibrated prediction intervals and proposes a simple alternative to quantile regression that relaxes the implicit assumption of a symmetric noise distribution. I will also present "Looking at Deep Learning Phenomena Through a Telescoping Lens" at the [HiLD workshop](https://sites.google.com/view/hidimlearning/home). 
