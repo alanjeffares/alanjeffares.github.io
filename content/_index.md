@@ -9,7 +9,7 @@ description: "Alan Jeffares"
     <img src="/images/profile_pic.jpeg" alt="profile" />
   </div>
 
-I'm a 3rd year Machine Learning PhD student at the University of Cambridge in the [Department of Applied Mathematics](http://www.damtp.cam.ac.uk/). I am interested in building a better understanding of empirical phenomena in deep learning (e.g. double descent, optimization heuristics) and developing methodological advances from these insights (e.g. deep ensembles, mixture-of-expersts). I hold an MSc in Machine Learning from [University College London](https://www.ucl.ac.uk/) and a BSc in Statistics from [University College Dublin](https://www.ucd.ie/). I have previously worked as a Data Scientist at [Accenture's global center for R&D innovation](https://www.accenture.com/il-en/services/about/innovation-hub-the-dock) and in the [Insight Research Center for Data Analytics](https://www.insight-centre.org/). Email at: *aj659 [at] cam [dot] ac [dot] uk*.
+I'm a 3rd year Machine Learning PhD student at the University of Cambridge in the [Department of Applied Mathematics](http://www.damtp.cam.ac.uk/). I am interested in building a better understanding of empirical phenomena in deep learning (e.g. double descent, optimization heuristics) and developing methodological advances from these insights (e.g. deep ensembles, mixture-of-experts). I hold an MSc in Machine Learning from [University College London](https://www.ucl.ac.uk/) and a BSc in Statistics from [University College Dublin](https://www.ucd.ie/). I have previously worked as a Data Scientist at [Accenture's global center for R&D innovation](https://www.accenture.com/il-en/services/about/innovation-hub-the-dock) and in the [Insight Research Center for Data Analytics](https://www.insight-centre.org/). Email at: *aj659 [at] cam [dot] ac [dot] uk*.
 
 
 {{% center %}}
@@ -20,9 +20,9 @@ I'm a 3rd year Machine Learning PhD student at the University of Cambridge in 
 
 ## 🗞️ News 🗞️
 
-* <span class="date">September 2024</span> &#8594; New paper accepted for [**NeurIPS2024**](https://nips.cc/), more details coming soon!
+* <span class="date">September 2024</span> &#8594; New paper accepted at [**NeurIPS2024**](https://nips.cc/)! This [paper](https://openreview.net/forum?id=NhucGZtikE) develops a simplified model of a neural network to uncover insights into double descent, grokking, gradient boosting, and linear mode connectivity. Check out our Twitter threads for a bite-sized summary -- [part I](https://x.com/AliciaCurth/status/1858497131796967723), [part II](https://x.com/AliciaCurth/status/1859269161911713850), & part III (coming soon). 
   
-* <span class="date">June 2024</span> &#8594; Excited to have begun my internship at Microsoft Research Redmond for the summer where I'll be working on discrete optimization and mixture of expert models under the brilliant [Lucas Liu](https://liyuanlucasliu.github.io/) and the deep learning team.
+* <span class="date">June 2024</span> &#8594; Excited to have begun my internship at Microsoft Research Redmond for the summer where I'll be working on discrete optimization and mixture-of-expert models under the brilliant [Lucas Liu](https://liyuanlucasliu.github.io/) and the deep learning team.
 
 * <span class="date">May 2024</span> &#8594; _New paper accepted at_ [**ICML2024**](https://icml.cc/)_!_ This [paper](https://arxiv.org/abs/2406.03258) deals with the task of estimating well-calibrated prediction intervals and proposes a simple alternative to quantile regression that relaxes the implicit assumption of a symmetric noise distribution. I will also present "Looking at Deep Learning Phenomena Through a Telescoping Lens" at the [HiLD workshop](https://sites.google.com/view/hidimlearning/home). 
 
@@ -51,6 +51,7 @@ Please find some of my publications below (a more up-to-date list can be found o
 
 ### Conferences
 
+- <mark>A. Jeffares*</mark>, A. Curth, M. van der Schaar. *Deep Learning Through A Telescoping Lens: A Simple Model Provides Empirical Insights On Grokking, Gradient Boosting & Beyond*. **NeurIPS, 2024**. [[paper]](https://openreview.net/forum?id=NhucGZtikE)
 - T. Pouplin*, <mark>A. Jeffares*</mark>, N. Seedat, M. van der Schaar. *Relaxed Quantile Regression: Prediction Intervals for Asymmetric Noise*. **ICML 2024** [[paper]](https://arxiv.org/abs/2406.03258) [[code]](https://github.com/TPouplin/RQR)
 - <mark>A. Jeffares*</mark>, A. Curth, M. van der Schaar. *Looking at Deep Learning Phenomena Through a Telescoping Lens*. **HiLD workshop @ ICML**. [[paper]](https://openreview.net/forum?id=hJ7hfAzsuT)
 - A. Curth*, <mark>A. Jeffares*</mark>, M. van der Schaar. *A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning*. **NeurIPS, 2023 - Oral (top 0.5%)**. [[paper]](https://openreview.net/forum?id=O0Lz8XZT2b) [[code]](https://github.com/alanjeffares/not-double-descent)
