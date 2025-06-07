@@ -64,5 +64,5 @@ Please find some of my publications below (a more up-to-date list can be found o
 ### Other
 
 - A. Curth, <mark>A. Jeffares</mark>, M. van der Schaar. *Why do Random Forests Work? Understanding Tree Ensembles as Self-Regularizing Adaptive Smoothers*. [[essay]](https://arxiv.org/abs/2402.01502)
-- <mark>A. Jeffares</mark>, L. Liu. *An Introduction to Discrete Variational Autoencoders*. [tutorial](https://arxiv.org/abs/2505.10344)
+- <mark>A. Jeffares</mark>, L. Liu. *An Introduction to Discrete Variational Autoencoders*. [[tutorial]](https://arxiv.org/abs/2505.10344)
 
