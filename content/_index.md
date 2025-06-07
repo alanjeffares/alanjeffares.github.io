@@ -9,7 +9,7 @@ description: "Alan Jeffares"
     <img src="/images/profile_pic.jpeg" alt="profile" />
   </div>
 
-I'm a 4th year Machine Learning PhD student at the University of Cambridge in the [Department of Applied Mathematics](http://www.damtp.cam.ac.uk/). I am interested in building a better understanding of empirical phenomena in deep learning (e.g. double descent, optimization heuristics) and developing methodological advances from these insights (e.g. deep ensembles, mixture-of-experts). I hold an MSc in Machine Learning from [University College London](https://www.ucl.ac.uk/) and a BSc in Statistics from [University College Dublin](https://www.ucd.ie/). Previously, I have interned in the [deep learning team](https://www.microsoft.com/en-us/research/group/deep-learning-group/) at Microsoft Research, Redmond and worked as a Data Scientist at [Accenture's global center for R&D innovation](https://www.accenture.com/il-en/services/about/innovation-hub-the-dock). Email at: *aj659 [at] cam [dot] ac [dot] uk*.
+I'm a 4th-year Machine Learning PhD student at the University of Cambridge in the [Department of Applied Mathematics](http://www.damtp.cam.ac.uk/). I am interested in building a better understanding of empirical phenomena in deep learning (e.g. double descent, optimization heuristics) and developing methodological advances from these insights (e.g. deep ensembles, mixture-of-experts). I hold an MSc in Machine Learning from [University College London](https://www.ucl.ac.uk/) and a BSc in Statistics from [University College Dublin](https://www.ucd.ie/). Previously, I have interned in the [deep learning team](https://www.microsoft.com/en-us/research/group/deep-learning-group/) at Microsoft Research, Redmond and worked as a Data Scientist at [Accenture's global center for R&D innovation](https://www.accenture.com/il-en/services/about/innovation-hub-the-dock). Email at: *aj659 [at] cam [dot] ac [dot] uk*.
 
 
 {{% center %}}
@@ -20,8 +20,10 @@ I'm a 4th year Machine Learning PhD student at the University of Cambridge in 
 
 ## 🗞️ News 🗞️
 
-* <span class="date">May 2025</span> &#8594; My new paper has been accepted for an **oral** presentation at ICML 2025. Preprint coming soon...
+* <span class="date">June 2025</span> &#8594; My new paper has been accepted for an **oral** presentation at ICML 2025. Camera-ready version coming soon...
 
+* <span class="date">May 2025</span> &#8594; I have written a [tutorial paper](https://arxiv.org/abs/2505.10344) on _discrete_ variational autoencoders. Optimizing through discrete latent spaces has become very popular recently (e.g. mixture-of-experts & VQ-VAE), and VAEs offer a nice introduction to this problem. 
+  
 * <span class="date">September 2024</span> &#8594; New paper accepted at [**NeurIPS2024**](https://nips.cc/)! This [paper](https://openreview.net/forum?id=NhucGZtikE) develops a simplified model of a neural network to uncover insights into double descent, grokking, gradient boosting, and linear mode connectivity. Check out our Twitter threads for a bite-sized summary -- [part I](https://x.com/AliciaCurth/status/1858497131796967723) & [part II](https://x.com/AliciaCurth/status/1859269161911713850). 
   
 * <span class="date">June 2024</span> &#8594; Excited to have begun my internship at Microsoft Research Redmond for the summer where I'll be working on discrete optimization and mixture-of-expert models under the brilliant [Lucas Liu](https://liyuanlucasliu.github.io/) and the deep learning team.
@@ -41,25 +43,26 @@ I'm a 4th year Machine Learning PhD student at the University of Cambridge in 
 
 ---
 
-## 📚 Research 📚
+## 📚 Selected Research 📚
 
 Please find some of my publications below (a more up-to-date list can be found on [google scholar](https://scholar.google.com/citations?user=e65kJ08AAAAJ&hl=en)).
 
 "\*" denotes equal contribution.
 
-### Preprints
+### Conference
 
-- A. Curth, <mark>A. Jeffares</mark>, M. van der Schaar. *Why do Random Forests Work? Understanding Tree Ensembles as Self-Regularizing Adaptive Smoothers*. [[preprint]](https://arxiv.org/abs/2402.01502)
-
-### Conferences
-
-- <mark>A. Jeffares</mark>, M. van der Schaar. *The Value of Deep Learning Phenomena Lies In Their Utility, Not Their Ubiquity*. **ICML, 2025 - Oral (top 0.5%)**. Paper coming soon.
+- <mark>A. Jeffares</mark>, M. van der Schaar. *A Critical Perspective on The Value in Studying Deep Learning Phenomena*. **ICML, 2025 - Oral (top 0.5%)**. Paper coming soon.
 - A. Curth*, <mark>A. Jeffares*</mark>, M. van der Schaar. *A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning*. **NeurIPS, 2023 - Oral (top 0.5%)**. [[paper]](https://openreview.net/forum?id=O0Lz8XZT2b) [[code]](https://github.com/alanjeffares/not-double-descent)
 - <mark>A. Jeffares</mark>, Q. Guo, P. Stenetorp, T. Moraitis. *Spike-inspired rank coding for fast and accurate recurrent neural networks*. **ICLR, 2022 - Spotlight (top 5%)**. [[paper]](https://openreview.net/pdf?id=iMH1e5k7n3L) [[code]](https://github.com/NeuromorphicComputing/RankCoding)
-- <mark>A. Jeffares</mark>, T. Liu, J .Crabbé, M. van der Schaar. *Joint Training of Deep Ensembles Fails Due to Learner Collusion*. **NeurIPS, 2023** [[paper]](https://openreview.net/forum?id=WpGLxnOWhn) [[code]](https://github.com/alanjeffares/joint-ensembles)
+- <mark>A. Jeffares</mark>, T. Liu, J. Crabbé, M. van der Schaar. *Joint Training of Deep Ensembles Fails Due to Learner Collusion*. **NeurIPS, 2023** [[paper]](https://openreview.net/forum?id=WpGLxnOWhn) [[code]](https://github.com/alanjeffares/joint-ensembles)
 - <mark>A. Jeffares*</mark>, A. Curth, M. van der Schaar. *Deep Learning Through A Telescoping Lens: A Simple Model Provides Empirical Insights On Grokking, Gradient Boosting & Beyond*. **NeurIPS, 2024**. [[paper]](https://openreview.net/forum?id=NhucGZtikE)
 - T. Pouplin*, <mark>A. Jeffares*</mark>, N. Seedat, M. van der Schaar. *Relaxed Quantile Regression: Prediction Intervals for Asymmetric Noise*. **ICML 2024** [[paper]](https://arxiv.org/abs/2406.03258) [[code]](https://github.com/TPouplin/RQR)
 - N. Seedat*, <mark>A. Jeffares*</mark>, F. Imrie, M. van der Schaar. *Improving Adaptive Conformal Prediction Using Self-Supervised Learning*. **AISTATS, 2023** [[paper]](https://proceedings.mlr.press/v206/seedat23a.html) [[code]](https://github.com/seedatnabeel/SSCP)
 - <mark>A. Jeffares*</mark>, T. Liu*, J. Crabbé, F. Imrie, M. van der Schaar. *TANGOS: Regularizing Tabular Neural Networks through Gradient Orthogonalization and Specialization*. **ICLR, 2023** [[paper]](https://openreview.net/forum?id=n6H86gW8u0d) [[code]](https://github.com/alanjeffares/TANGOS)
 - <mark>A. Jeffares*</mark>, A. Curth, M. van der Schaar. *Looking at Deep Learning Phenomena Through a Telescoping Lens*. **HiLD workshop @ ICML**. [[paper]](https://openreview.net/forum?id=hJ7hfAzsuT)
+
+### Other
+
+- A. Curth, <mark>A. Jeffares</mark>, M. van der Schaar. *Why do Random Forests Work? Understanding Tree Ensembles as Self-Regularizing Adaptive Smoothers*. [[essay]](https://arxiv.org/abs/2402.01502)
+- <mark>A. Jeffares</mark>, L. Liu. *An Introduction to Discrete Variational Autoencoders*. [tutorial](https://arxiv.org/abs/2505.10344)
 
