@@ -20,7 +20,7 @@ I'm a 4th-year Machine Learning PhD student at the University of Cambridge in 
 
 ## 🗞️ News 🗞️
 
-* <span class="date">June 2025</span> &#8594; My new paper has been accepted for an **oral** presentation at ICML 2025. Camera-ready version coming soon...
+* <span class="date">June 2025</span> &#8594; My new [paper](https://openreview.net/forum?id=cw7MYyDL33) has been accepted for an **oral** (🥳) presentation at [**ICML25**](https://icml.cc/). This work argues that many deep learning phenomena (double descent, grokking, lottery tickets) don't appear in practical applications and, therefore, shouldn't be treated as puzzles that need to be solved.
 
 * <span class="date">May 2025</span> &#8594; I have written a [tutorial paper](https://arxiv.org/abs/2505.10344) on _discrete_ variational autoencoders. Optimizing through discrete latent spaces has become very popular recently (e.g. mixture-of-experts & VQ-VAE), and VAEs offer a nice introduction to this problem. 
   
@@ -51,7 +51,7 @@ Please find some of my publications below (a more up-to-date list can be found o
 
 ### Conference
 
-- <mark>A. Jeffares</mark>, M. van der Schaar. *A Critical Perspective on The Value in Studying Deep Learning Phenomena*. **ICML, 2025 - Oral (top 0.5%)**. Paper coming soon.
+- <mark>A. Jeffares</mark>, M. van der Schaar. *Not All Explanations for Deep Learning Phenomena Are Equally Valuable*. **ICML, 2025 - Oral (top 2%)**. [[paper]](https://openreview.net/forum?id=cw7MYyDL33)
 - A. Curth*, <mark>A. Jeffares*</mark>, M. van der Schaar. *A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning*. **NeurIPS, 2023 - Oral (top 0.5%)**. [[paper]](https://openreview.net/forum?id=O0Lz8XZT2b) [[code]](https://github.com/alanjeffares/not-double-descent)
 - <mark>A. Jeffares</mark>, Q. Guo, P. Stenetorp, T. Moraitis. *Spike-inspired rank coding for fast and accurate recurrent neural networks*. **ICLR, 2022 - Spotlight (top 5%)**. [[paper]](https://openreview.net/pdf?id=iMH1e5k7n3L) [[code]](https://github.com/NeuromorphicComputing/RankCoding)
 - <mark>A. Jeffares</mark>, T. Liu, J. Crabbé, M. van der Schaar. *Joint Training of Deep Ensembles Fails Due to Learner Collusion*. **NeurIPS, 2023** [[paper]](https://openreview.net/forum?id=WpGLxnOWhn) [[code]](https://github.com/alanjeffares/joint-ensembles)
