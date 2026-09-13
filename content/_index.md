@@ -9,7 +9,7 @@ description: "Alan Jeffares"
     <img src="/images/profile_pic.jpeg" alt="profile" />
   </div>
 
-I'm a 4th-year Machine Learning PhD student at the University of Cambridge in the [Department of Applied Mathematics](http://www.damtp.cam.ac.uk/). I am interested in building a better understanding of empirical phenomena in deep learning (e.g. double descent, optimization heuristics) and developing methodological advances from these insights (e.g. deep ensembles, mixture-of-experts). I hold an MSc in Machine Learning from [University College London](https://www.ucl.ac.uk/) and a BSc in Statistics from [University College Dublin](https://www.ucd.ie/). Previously, I have interned in the [deep learning team](https://www.microsoft.com/en-us/research/group/deep-learning-group/) at Microsoft Research, Redmond and worked as a Data Scientist at [Accenture's global center for R&D innovation](https://www.accenture.com/il-en/services/about/innovation-hub-the-dock). Email at: *aj659 [at] cam [dot] ac [dot] uk*.
+I'm a Scientist on the Pretraining team at [Mistral](https://mistral.ai/). Previously, I completed my PhD at the University of Cambridge in the [Department of Applied Mathematics](http://www.damtp.cam.ac.uk/). I also hold an MSc in Machine Learning from [University College London](https://www.ucl.ac.uk/) and a BSc in Statistics from [University College Dublin](https://www.ucd.ie/). I have also interned in the [deep learning team](https://www.microsoft.com/en-us/research/group/deep-learning-group/) at Microsoft Research, Redmond and worked as a Data Scientist at [Accenture's global center for R&D innovation](https://www.accenture.com/il-en/services/about/innovation-hub-the-dock). Email at: *aj659 [at] cam [dot] ac [dot] uk*.
 
 
 {{% center %}}
@@ -19,6 +19,8 @@ I'm a 4th-year Machine Learning PhD student at the University of Cambridge in 
 ---
 
 ## 🗞️ News 🗞️
+
+* <span class="date">September 2025</span> &#8594; I have joined the pretraining team at Mistral! 
 
 * <span class="date">June 2025</span> &#8594; My new [paper](https://openreview.net/forum?id=cw7MYyDL33) has been accepted for an **oral** (🥳) presentation at [**ICML25**](https://icml.cc/). This work argues that many deep learning phenomena (double descent, grokking, lottery tickets) don't appear in practical applications and, therefore, shouldn't be treated as puzzles that need to be solved.
 
